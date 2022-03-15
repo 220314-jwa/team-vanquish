@@ -1,3 +1,9 @@
 Write something about yourself
+<<<<<<< HEAD
 
 My name is Jeremiah and I like to travle and eat a lot.  
+=======
+this is George Roberts
+Hello this is lane, and I like to learn new things.
+hi, this is monica, i like to play vollyball.
+>>>>>>> acca54cc731e46b5365e4ffcf73977114e90d03f
